@@ -57,7 +57,7 @@ Corporate Finance & Valuation · Financial Statement Analysis · Asset Pricing �
 ## 📜 Certifications
 - 🎯 CFA Level I candidate
 - 📺 Bloomberg Market Concepts (BMC), incl. Terminal Basics
-- 📊 Bloomberg Spreadsheet Analysis (BSA): BQL queries in Excel
+- 📊 Bloomberg Spreadsheet Analysis (BSA): BQL (Bloomberg Query Language) queries in Excel
 - 📗 Financial Modelling & Fundamental Analysis · Advanced Excel (Udemy)
 - ⭐ Morningstar Financial Literacy
 
