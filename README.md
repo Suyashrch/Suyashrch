@@ -49,13 +49,15 @@ Corporate Finance & Valuation · Financial Statement Analysis · Asset Pricing �
 
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=flat)
+![BQL](https://img.shields.io/badge/Bloomberg_Query_Language_(BQL)-000000?style=flat)
 ![PitchBook](https://img.shields.io/badge/PitchBook-1F3864?style=flat)
 ![Python](https://img.shields.io/badge/Python_(basic)-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 
 ## 📜 Certifications
 - 🎯 CFA Level I candidate
-- 📺 Bloomberg Market Concepts (BMC)
+- 📺 Bloomberg Market Concepts (BMC), incl. Terminal Basics
+- 📊 Bloomberg Spreadsheet Analysis (BSA): BQL queries in Excel
 - 📗 Financial Modelling & Fundamental Analysis · Advanced Excel (Udemy)
 - ⭐ Morningstar Financial Literacy
 
