@@ -1,8 +1,8 @@
 # Hi, I'm Suyash 👋
 
-### 📊 Finance Analyst | Equity Research · Risk · Fund Services | Dublin, Ireland 🇮🇪
+### 📊 Equity Research · Risk · Fund Services | Dublin, Ireland 🇮🇪
 
-I'm a finance analyst with an **MSc in Finance from Dublin City University** and hands-on experience in financial research and due diligence at **Morningstar** and **BNY Mellon** (via Acuity Knowledge Partners). I love digging into financial statements, building valuation models and finding ways to make repetitive work faster. 🚀
+I have an **MSc in Finance from Dublin City University** and hands-on experience in financial research and due diligence at **Morningstar** and **BNY Mellon** (via Acuity Knowledge Partners). I love digging into financial statements, building valuation models and finding ways to make repetitive work faster. 🚀
 
 📍 Based in Dublin &nbsp;·&nbsp; ✅ Stamp 1G applied, no sponsorship needed for 2 years &nbsp;·&nbsp; 🟢 Available immediately
 
@@ -10,27 +10,27 @@ I'm a finance analyst with an **MSc in Finance from Dublin City University** and
 
 ## 💼 Experience
 
-**🏦 Analyst, Financial Marketing Services** — Acuity Knowledge Partners, embedded in BNY Mellon's team *(Apr 2024 – Feb 2025)*
-- 📝 Completed 4–5 due diligence questionnaires a week (up to 30 questions each) for global banks and asset managers
+**🏦 Analyst, Financial Marketing Services** - Acuity Knowledge Partners, embedded in BNY Mellon's team *(Apr 2024 - Feb 2025)*
+- 📝 Completed 4-5 due diligence questionnaires a week (up to 30 questions each) for global banks and asset managers
 - 🤝 Worked directly with clients and subject-matter experts to meet tight compliance deadlines
 
-**⭐ Data Research Analyst** — Morningstar, Mumbai *(Oct 2022 – Dec 2023)*
+**⭐ Data Research Analyst** - Morningstar, Mumbai *(Oct 2022 - Dec 2023)*
 - 📑 Worked through at least 8 company filings a day across countries and industries, translating non-English filings and extracting key data
 - 💊 Covered healthcare on the Industry Specific Metrics team: pharma, biotech, hospitals and drug R&D
 - 🏆 Named **"Star of the Quarter"** for 100% accuracy with zero errors over a full quarter
 - ⚙️ Proposed an automation tool for share calculations that a colleague built and leadership approved
 - 🔍 Selected for a PitchBook assignment, updating management details on ~100 private company profiles a day
 
-**📈 Financial Analyst Intern** — RightPath Transformation, Pune *(Jan 2022 – Jun 2022)*
+**📈 Financial Analyst Intern** - RightPath Transformation, Pune *(Jan 2022 - Jun 2022)*
 
 ---
 
 ## 🎓 Education
 
-**MSc in Finance** — Dublin City University *(2025 – 2026)*
+**MSc in Finance** - Dublin City University *(2025 - 2026)*
 Corporate Finance & Valuation · Financial Statement Analysis · Asset Pricing · Derivatives · Fixed Income · Risk Management · Econometrics · Sustainable Finance
 
-**BBA, International Business** — Ajeenkya D Y Patil University, Pune
+**BBA, International Business** - Ajeenkya D Y Patil University, Pune
 
 ---
 
@@ -38,7 +38,7 @@ Corporate Finance & Valuation · Financial Statement Analysis · Asset Pricing �
 
 | | Project | What it is |
 |---|---|---|
-| 🌱 | [**The AI-ESG Paradox in Europe**](https://github.com/Suyashrch/ai-esg-paradox-europe) | MSc dissertation: do AI-driven ESG funds pay off, and what does the ESG-data industry cost in emissions? 3,917 European equity funds, 2019–2024 |
+| 🌱 | [**The AI-ESG Paradox in Europe**](https://github.com/Suyashrch/ai-esg-paradox-europe) | MSc dissertation: do AI-driven ESG funds pay off, and what does the ESG-data industry cost in emissions? 3,917 European equity funds, 2019-2024 |
 | 🚬 | [**Altria Group (NYSE: MO) Equity Research**](https://github.com/Suyashrch/altria-equity-research) | Research report and 9-sheet valuation model, graded first-class (73%). **BUY, $68 target** |
 
 ---
