@@ -2,9 +2,9 @@
 
 ### 📊 Equity Research · Risk · Fund Services | Dublin, Ireland 🇮🇪
 
-I have an **MSc in Finance from Dublin City University** and hands-on experience in financial research and due diligence at **Morningstar** and **BNY Mellon** (via Acuity Knowledge Partners). I love digging into financial statements, building valuation models and finding ways to make repetitive work faster. 🚀
+I have an **MSc in Finance from Dublin City University** and hands-on experience in financial research and due diligence at **Morningstar** and **Acuity Knowledge Partners (BNY Mellon team)**. I love digging into financial statements, building valuation models and finding ways to make repetitive work faster. 🚀
 
-📍 Based in Dublin &nbsp;·&nbsp; ✅ Stamp 1G applied, no sponsorship needed for 2 years &nbsp;·&nbsp; 🟢 Available immediately
+📍 Based in Dublin &nbsp;·&nbsp; ✅ Stamp 1G, no sponsorship needed for 2 years &nbsp;·&nbsp; 🟢 Available immediately
 
 ---
 
@@ -40,6 +40,8 @@ Corporate Finance & Valuation · Financial Statement Analysis · Asset Pricing �
 |---|---|---|
 | 🌱 | [**The AI-ESG Paradox in Europe**](https://github.com/Suyashrch/ai-esg-paradox-europe) | MSc dissertation: do AI-driven ESG funds pay off, and what does the ESG-data industry cost in emissions? 3,917 European equity funds, 2019-2024 |
 | 🚬 | [**Altria Group (NYSE: MO) Equity Research**](https://github.com/Suyashrch/altria-equity-research) | Research report and 9-sheet valuation model, graded first-class (73%). **BUY, $68 target** |
+| 🧀 | **Kerry Group (Euronext Dublin: KRZ)** *(in progress)* | Full valuation model on Bloomberg data: 2013-2025 statements, segments, peer comparables, WACC inputs and consensus estimates. Coming early 2027 |
+| 🚗 | **Mercedes-Benz Group (XETRA: MBG)** *(in progress)* | Full valuation model on Bloomberg data: 2013-2025 statements, segments, peer comparables, WACC inputs and consensus estimates. Coming early 2027 |
 
 ---
 
